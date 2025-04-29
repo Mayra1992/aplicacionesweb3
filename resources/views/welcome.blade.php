@@ -1,1 +1,3 @@
-<x-layout></x-layout>
+<x-layout>
+    <h2>Inicio</h2>
+</x-layout>
